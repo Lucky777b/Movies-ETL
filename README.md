@@ -8,8 +8,10 @@ The purpose of this challenge was to use the ETL (Extract, Transform, Load) meth
 * pgAdmin4 v6.11
 * Anaconda (Jupyter Notebook, Pandas, Numpy, JSON)
 * files: 
-** Kaggle Data: ratings.csv, movies_metadata.csv 
-** Wikipedia Data: wikipedia-movies.json
+
+  * Kaggle Data: ratings.csv, movies_metadata.csv 
+
+  * Wikipedia Data: wikipedia-movies.json
 
 
 ![ETL_image](https://user-images.githubusercontent.com/104864579/183221311-32e1f2a0-a081-427d-8514-02ff22789167.png)
